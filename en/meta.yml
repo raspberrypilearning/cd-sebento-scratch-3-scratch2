@@ -1,11 +1,24 @@
-title: cd-sebento-scratch-3-scratch2
+title: Advanced Scratch Sushi Cards for Social Innovation
 hero_image: images/banner.png
-description: cd-sebento-scratch-3-scratch2 description
-version: 4
+description: Make a platform-style game and add your own levels, powers, and characters.
+theme: orange
 listed: false
-copyedit: false
-last_tested: "2018-12-20"
+copyedit: true
+curriculum: ''
+interests: ''
+technologies: scratch
+site_areas: coderdojo, projects
+hardware: ''
+software: scratch
+version: 3.0.0
+last_tested: "2018-04-23"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Setting things up
+  - title: Losing the game
+  - title: Power-ups
+  - title: Super power-ups!
+  - title: Adding some competition
+  - title: Level 2
+  - title: Moving platforms
   - title: What next?

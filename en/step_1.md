@@ -1,58 +1,48 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-3).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+These are the Advanced Scratch Sushi Cards, and in them you’ll be making a platform-style game to which you can later add your own levels, powers, and characters.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+Did you know that having lots and lots of cows contributes to climate change? That's because cows produce methane, a greenhouse gas, and fart it out. In this game your mission is to catch as much of the methane as you can.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/219285989/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
+Use the arrow keys to move Pico around. Make sure you don't crash into the helicopter!
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ Cloning sprites
++ Using variables inside cloned sprites
++ Creating and using **More** blocks
++ Reusing code in several places with **More** blocks
++ Messages to trigger behaviours across sprites
++ Using variables to configure your program
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: What you will need
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+### Hardware
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
++ A computer capable of running Scratch 2.0
+
+### Software
+
+You’re going to need **Scratch 2.0**, so download and install it on your computer by going to [dojo.soy/downloadscratch2](http://dojo.soy/downloadscratch2)
 
 --- /collapse ---
